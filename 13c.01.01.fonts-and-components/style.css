@@ -24,7 +24,7 @@
   --font-xxlarge: 3.052rem;
 
   --font-primary: "roc-grotesk-wide", sans-serif;
-  --font-secondary: "coolvetice", sans-serif;
+  --font-secondary: "coolvetica", sans-serif;
 }
 
 /* Fonts */
@@ -117,7 +117,7 @@ nav{
 }
 
 nav a {
-  color: white;
+  color: var(--color-lighter);
   text-decoration: none;
 
   font-family: var(--font-primary);
