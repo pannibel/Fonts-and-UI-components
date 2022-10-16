@@ -136,6 +136,7 @@ header {
   align-items: center;
   justify-content: space-around;
   flex-wrap: wrap;
+  padding-top: 1rem;
   background-color: var(--color-dark);
 }
 
@@ -194,7 +195,7 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   gap: var(--font-medium);
-  justify-items: center;
+  justify-content: center;
   margin-top: var(--font-medium);
 }
 
